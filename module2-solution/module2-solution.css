@@ -5,12 +5,16 @@
 h1 {
   margin-bottom: 15px;
   text-align: center;
+  font-size: 1.75em;
 }
 
 p {
   clear:right;
   padding: 10px;
+  font-family: Arial, Helvetica;
 }
+
+
 section {
   width: 100px;
   border:1px solid black;
@@ -20,6 +24,7 @@ section {
   right: 2px;
   text-align: center;
   background-color: red;
+  font-size: 1.25em;
   }
 
 #s1 {
@@ -36,7 +41,6 @@ section {
   background-color: gray;
   height: 150px;
   margin:15px;
-  font-family: Helvetica;
   position: relative;
 }
 
